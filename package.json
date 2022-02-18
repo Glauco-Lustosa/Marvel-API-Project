@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "angular": "^1.8.2",
+    "http": "^0.0.1-security",
+    "http-server": "^14.1.0"
+  },
+  "name": "hatchways3",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
